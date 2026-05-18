@@ -1,6 +1,6 @@
 @page {
   size: A4;
-  margin: 1.4cm 1.7cm;
+  margin: 1.05cm 1.5cm;
 }
 
 * {
@@ -9,8 +9,8 @@
 
 body {
   font-family: "Helvetica Neue", "Arial", "Segoe UI", sans-serif;
-  font-size: 10.3pt;
-  line-height: 1.42;
+  font-size: 10pt;
+  line-height: 1.33;
   color: #2b2b2b;
   margin: 0;
 }
@@ -56,15 +56,15 @@ h2 {
   color: #1a1a1a;
   border-bottom: 1.2pt solid #2f6f9f;
   padding-bottom: 2pt;
-  margin: 13pt 0 7pt;
+  margin: 9pt 0 5pt;
 }
 
 /* Job titles */
 h3 {
-  font-size: 10.8pt;
+  font-size: 10.5pt;
   font-weight: 600;
   color: #1a1a1a;
-  margin: 8pt 0 0;
+  margin: 6pt 0 0;
 }
 
 /* Dates (italic paragraph after a job title) */
@@ -84,7 +84,7 @@ ul {
 }
 
 li {
-  margin: 1.5pt 0;
+  margin: 1pt 0;
 }
 
 p {
