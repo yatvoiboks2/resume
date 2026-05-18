@@ -1,8 +1,8 @@
 # Vladyslav Lebediev
 
-**DevOps / Monitoring Engineer**
+**Monitoring Team Lead**
 
-[yatvoiboks@gmail.com](mailto:yatvoiboks@gmail.com) · [github.com/yatvoiboks2](https://github.com/yatvoiboks2) · LinkedIn: _add your profile URL_
+[yatvoiboks@gmail.com](mailto:yatvoiboks@gmail.com) · [github.com/yatvoiboks2](https://github.com/yatvoiboks2) · [linkedin.com/in/vladyslav-lebediev](https://www.linkedin.com/in/vladyslav-lebediev-889726325)
 
 ## Summary
 
@@ -10,16 +10,16 @@ DevOps and Monitoring Engineer with hands-on experience operating production sys
 
 ## Work Experience
 
-### Monitoring Team Lead / On-call Engineer
+### Monitoring Team Lead
 
-*May 2025 – December 2025*
+*May 2025 – June 2026*
 
-- Led a monitoring and on-call engineering team responsible for production alerting and incident response.
-- Designed and documented operational processes — runbooks, incident procedures, escalation policies, and contact matrices — standardizing incident handling across teams.
-- Partnered with DevOps teams to onboard production services into centralized monitoring and alerting.
-- Integrated multiple production services with PagerDuty, configuring alert routing, severity levels, on-call schedules, and escalation chains.
-- Supported applications running in managed and self-hosted Kubernetes environments.
-- Drove post-incident reviews and reliability improvements as part of regular on-call rotations.
+- Led a monitoring and on-call engineering team of 5, responsible for production alerting and incident response.
+- Established and documented the team's operational framework — runbooks, incident procedures, escalation policies, and contact matrices — standardizing incident handling across teams.
+- Organized on-call rotations and coordinated incident handling and post-incident reviews to improve system reliability.
+- Led onboarding of 10+ production services into centralized monitoring and alerting, working closely with DevOps teams.
+- Standardized PagerDuty integration across production services — alert routing, severity levels, on-call schedules, and escalation chains.
+- Oversaw monitoring of high-load applications running in managed and self-hosted Kubernetes environments.
 
 ### Junior DevOps Engineer — Codemasters International
 
