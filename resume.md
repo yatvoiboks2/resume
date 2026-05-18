@@ -15,7 +15,7 @@ Monitoring Team Lead with hands-on experience leading 24/7 on-call rotations and
 *May 2025 – June 2026*
 
 - Led a 24/7 monitoring and on-call engineering team of 5, responsible for production alerting and incident response.
-- Authored the team's internal runbooks in Notion — including a dedicated playbook for severity downgrades and alert muting — standardizing incident handling across teams.
+- Owned and standardized the team's operational documentation in Notion — runbooks, incident procedures, and escalation playbooks — unifying incident handling across teams.
 - Owned the on-call shift schedule, balancing 24/7 coverage with team workload, holidays, and personal commitments.
 - Coordinated incident triage, escalation to platform owners, and post-incident reviews to improve system reliability.
 - Led onboarding of 10+ production services into centralized monitoring and alerting, working closely with DevOps teams.
