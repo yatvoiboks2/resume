@@ -6,7 +6,7 @@
 
 ## Summary
 
-DevOps and Monitoring Engineer with hands-on experience operating production systems, containerized applications, and cloud infrastructure on AWS. Proven background in monitoring and on-call leadership, Kubernetes-based platforms, and Linux administration. Skilled at partnering with application teams (.NET and PHP) to improve reliability, observability, and deployment workflows, with a solid foundation in CI/CD and infrastructure automation.
+Monitoring Team Lead with hands-on experience leading 24/7 on-call rotations and operating production systems, containerized applications, and cloud infrastructure on AWS. Proven background in monitoring and on-call leadership, Kubernetes-based platforms, and Linux administration. Skilled at partnering with application teams (.NET and PHP) to improve reliability, observability, and deployment workflows, with a solid foundation in CI/CD and infrastructure automation.
 
 ## Work Experience
 
